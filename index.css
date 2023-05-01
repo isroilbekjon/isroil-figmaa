@@ -91,13 +91,92 @@
     color: #FFFFFF;
     background: #91916C;
     padding: 6px 12px;
-    border-radius: 0px 10px 10px 0px ;
+    border-radius: 0px 10px 10px 0px;
     margin-left: 40px;
 }
-.header_end{
+
+.header_end {
     display: flex;
     align-items: center;
 }
-.section-2{
+
+.section-2 {
     margin-top: 50px;
+}
+
+.product {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 139%;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #91916C;
+    margin-top: 180px;
+    margin-left: 300px;
+}
+
+.line {
+    margin-top: 20px;
+    margin-left: 480px;
+}
+
+.yota {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 139%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #65653E;
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-bottom: 100px;
+}
+
+.isroil {
+    background: url(img/image\ 6.png);
+    width: 800px;
+    height: 432px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid #91916C;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+}
+
+.imade {
+    margin-top: 216px;
+    margin-left: -200px;
+}
+
+.imade2 {
+    margin-left: 950px;
+    margin-top: -60px;
+}
+
+.yozuv2 {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 139%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #333333;
+    margin-top: -80px;
+    margin-left: 180px;
+    margin-bottom: 100px;
+}
+.section-3{
+    background: #E1E1C2; 
+    margin-left: -120px;
+    margin-right: -110px;
+}
+.kattaota{
+    margin-left: 150px;
 }
